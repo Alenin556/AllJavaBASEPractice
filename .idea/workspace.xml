@@ -4,75 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="projects">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder/EmployeeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CatCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cycles/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cycles/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeTypes/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeTypes/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeTypes/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeTypes/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeTypes/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeeFabrique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/CoffeeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Final/practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Funcional/Sum8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/ConsumerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/FunctionInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/PredicateInterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/SupplierInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/ElseIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IF/Ternarn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectThemeJavaBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/L.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackQueueDequeue/DequeueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackQueueDequeue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackQueueDequeue/StackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-platform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/FaceControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/FaceControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/ParameterizedFaceControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/ParameterizedFaceControlTestNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/test/BaseDriverSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/test/Selenide/ParametrizedTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Parallel/FirstParallelUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Parallel/SecondParallelUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/faceControl.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BankDeposit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankDeposit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise.java" afterDir="false" />
-    </list>
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -291,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678614167402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final">
+      <created>1699276830117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699276830117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +247,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="projects" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
