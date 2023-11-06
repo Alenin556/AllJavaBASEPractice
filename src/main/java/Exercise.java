@@ -1,11 +1,18 @@
 public class Exercise {
     public static void main(String[] args) {
-        int x = 1;
-        while (x < 10) {
-            if (x < 3) {
-                System.out.println("Большой икс");
-            }
-            x ++;
-        }
+
+        int [] ages = new int[5];
+
+         ages [2] = 25;
+         ages [3] = 20;
+
+        System.out.println(ages[2]);
+
+
+
+
+
     }
+
+
 }
