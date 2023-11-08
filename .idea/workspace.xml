@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="final" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="static">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Equals/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Equals/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Static/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Test/encoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Static/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Static/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +41,11 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="JavaPractice" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaPractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -38,13 +56,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Fabrique/CoffeeShop.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,9 +83,10 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/IDEA/JavaBookPractice&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -76,16 +98,17 @@
       <recent name="C:\IDEA\JavaBookPractice\src\main\java\Сollections" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IDEA\JavaBookPractice\src\main\java\Static" />
       <recent name="C:\IDEA\JavaBookPractice\src\main\resources" />
       <recent name="C:\IDEA\JavaBookPractice\src\test\resources" />
       <recent name="C:\IDEA\JavaBookPractice\src\main\java\Parametrized" />
       <recent name="C:\IDEA\JavaBookPractice\src\main\java\Lesson7" />
-      <recent name="C:\IDEA\JavaBookPractice\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Equals" />
       <recent name="Final" />
       <recent name="" />
     </key>
@@ -99,9 +122,22 @@
       <command value="./gradlew hello" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Set">
-    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Сollections.Set" />
+  <component name="RunManager" selected="Application.encoding">
+    <configuration name="CarSaloon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.CarSaloon" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сollections.Hash" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
@@ -113,50 +149,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaBookPractice [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="allureServe" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Equals.Students" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="JavaBookPractice [clean test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.Test.encoding" />
+      <module name="JavaPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="JavaBookPractice [hello]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SecondParallelUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -167,44 +186,25 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="hello" />
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tests.Parallel.SecondParallelUnitTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="JavaBookPractice [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="tasks" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Set" />
-        <item itemvalue="Gradle.JavaBookPractice [hello]" />
-        <item itemvalue="Gradle.JavaBookPractice [tasks]" />
-        <item itemvalue="Gradle.JavaBookPractice [allureServe]" />
-        <item itemvalue="Gradle.JavaBookPractice [clean test]" />
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.encoding" />
+        <item itemvalue="Application.CarSaloon" />
+        <item itemvalue="Gradle.SecondParallelUnitTest" />
+        <item itemvalue="Application.Students" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699276830117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="static">
+      <created>1699277091056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699277091056</updated>
+    </task>
+    <task id="LOCAL-00004" summary="static">
+      <created>1699277100654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699277100654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projects" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="static" />
+    <option name="LAST_COMMIT_MESSAGE" value="static" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

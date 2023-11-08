@@ -17,13 +17,11 @@ package Lambda;
     {
         public static void main(String args[])
         {
-            // lambda expression to implement above
-            // functional interface. This interface
-            // by default implements abstractFun()
-            FuncInterface newInt = (int x)->System.out.println(3*x);
-            FuncInterface newInt2 = (int x) -> System.out.println(x*x);
+            //Указываем инструкции обработки для метода
+            FuncInterface newInt = (x)->System.out.println(3*x);
+            FuncInterface newInt2 = (x) -> System.out.println(x*x);
 
-            // This calls above lambda expression and prints 10.
+            // Передаем параметры в метод
             newInt.function(5);
             newInt2.function(10);
             newInt.normalFunction();

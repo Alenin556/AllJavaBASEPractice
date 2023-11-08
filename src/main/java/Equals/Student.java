@@ -1,4 +1,4 @@
-package Constructor;
+package Equals;
 
 public class Student {
 
@@ -33,5 +33,10 @@ public class Student {
     public void setSpecialty(String specialty) {
         this.specialty = specialty;
     }
+
+//    @Override
+//    public boolean equals(Object o) {
+//    }
+
 
 }

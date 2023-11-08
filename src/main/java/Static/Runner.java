@@ -16,5 +16,7 @@ public class Runner {
         //Покупатель хочет узнать цену за каждую
         System.out.println("Стоимость lamborghini: " + Car.getLamborghiniCarPrice()); // обращаемся к статическим методам, которые возвращают статические атрибуты, которые принадлежат классу
         System.out.println("Стоимость porsche: " + Car.getPorscheCarPrice());
+
+        Car2 orangeCar = new Car2();
     }
 }
