@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="static">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Equals/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Equals/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Static/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Test/encoding.java" afterDir="false" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="encoding">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Static/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Static/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +113,7 @@
       <command value="./gradlew hello" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.encoding">
+  <component name="RunManager" selected="Gradle.JavaBookPractice [build]">
     <configuration name="CarSaloon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Static.CarSaloon" />
       <module name="JavaPractice.main" />
@@ -149,19 +140,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Equals.Students" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Equals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tests.Test.encoding" />
       <module name="JavaPractice.test" />
@@ -174,6 +152,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="JavaBookPractice [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="SecondParallelUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -200,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.JavaBookPractice [build]" />
         <item itemvalue="Application.Hash" />
         <item itemvalue="Application.encoding" />
         <item itemvalue="Application.CarSaloon" />
         <item itemvalue="Gradle.SecondParallelUnitTest" />
-        <item itemvalue="Application.Students" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699277100654</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="encoding">
+      <created>1699431208341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699431208341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +269,8 @@
     <MESSAGE value="projects" />
     <MESSAGE value="final" />
     <MESSAGE value="static" />
-    <option name="LAST_COMMIT_MESSAGE" value="static" />
+    <MESSAGE value="encoding" />
+    <option name="LAST_COMMIT_MESSAGE" value="encoding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
