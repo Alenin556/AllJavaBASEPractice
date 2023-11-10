@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="encoding">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +31,11 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="JavaPractice" type="f1a62948:ProjectNode" />
+                <item name="JavaBookPractice" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="JavaPractice" type="f1a62948:ProjectNode" />
+                <item name="JavaBookPractice" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
@@ -69,17 +70,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/IDEA/JavaBookPractice&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/IDEA/JavaPractice — копия",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -106,17 +109,19 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="./gradlew build" />
       <command value="./gradlew clean test" />
       <command value="./gradlew allureServe" />
       <command value="./gradlew tasks" />
       <command value="./gradlew hello" />
+      <command value="./gradlew build" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.JavaBookPractice [build]">
+  <component name="RunManager" selected="Application.CarSaloon">
     <configuration name="CarSaloon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Static.CarSaloon" />
-      <module name="JavaPractice.main" />
+      <module name="JavaBookPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Static.*" />
@@ -199,10 +204,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarSaloon" />
         <item itemvalue="Gradle.JavaBookPractice [build]" />
         <item itemvalue="Application.Hash" />
         <item itemvalue="Application.encoding" />
-        <item itemvalue="Application.CarSaloon" />
         <item itemvalue="Gradle.SecondParallelUnitTest" />
       </list>
     </recent_temporary>
@@ -251,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699431208341</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="encoding">
+      <created>1699601432711</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699601432711</updated>
+    </task>
+    <task id="LOCAL-00007" summary="encoding">
+      <created>1699601444264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699601444264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
