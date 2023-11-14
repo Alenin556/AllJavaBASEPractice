@@ -9,6 +9,5 @@ public class NewStudent {
         System.out.println(studentA.getName());
         System.out.println(newStudent.getSpecialty());
 
-        System.out.println(studentA.equals(studentB));
     }
 }

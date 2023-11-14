@@ -1,4 +1,4 @@
-package FunctionalIntefaces;
+package FunctionalInterfaces;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package FunctionalIntefaces;
+package FunctionalInterfaces;
 
 import java.util.function.Consumer;
 import java.util.stream.Stream;
