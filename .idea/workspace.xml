@@ -4,28 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="gradle">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/Lambda/LambdaPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Json.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/equalshascode/equals/Animal.java" afterDir="false" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="practice">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/SuperHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamGenericsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/CardDBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/SingletonClassExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Equals/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Equals/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/ConsumerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/ConsumerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/FunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/FunctionInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/PredicateInterFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/PredicateInterFace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalIntefaces/SupplierInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/SupplierInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lambda/LambdaPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/class1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/test/Selenide/ParametrizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testPackage/test/Selenide/ParametrizedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CatCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CatCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLID/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLID/L.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/equalshascode/equals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Collections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/test/BaseDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/test/Selenide/ParametrizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/Selenide/ParametrizedTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +55,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="JavaPractice" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="JavaPractice" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="JavaPractice" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="JavaPractice" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="verification" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -78,6 +66,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,7 +93,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java Works/JavaPractice/src/main/java/Exceptions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java Works/JavaPractice/src/test/java/Singleton&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -118,6 +107,7 @@
       <recent name="Java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java Works\JavaPractice\src\test\java\Singleton" />
       <recent name="C:\Java Works\JavaPractice\src\main\java\Exceptions" />
       <recent name="C:\IDEA\JavaBookPractice\src\main\java\Сollections" />
     </key>
@@ -146,13 +136,13 @@
       <command value="./gradlew build" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.ArrayException" />
+  <component name="RunManager" selected="Application.L">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorObjectInterfacePractice.Dog" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="ConstructorObjectInterfacePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaces.ConsumerInterface" />
+    <configuration name="L" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.L" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterfaces.*" />
+          <option name="PATTERN" value="SOLID.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaWord" />
-      <module name="JavaPractice.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalshascode.equals.Test" />
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacesCollections.Map" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalshascode.equals.*" />
+          <option name="PATTERN" value="InterfacesCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,29 +176,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Json.pojoToJsonString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamAPI.NewStream" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SerializationAndDeserializtion.*" />
+          <option name="PATTERN" value="StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SerializationAndDeserializtion" />
-      <option name="MAIN_CLASS_NAME" value="SerializationAndDeserializtion.Json" />
-      <option name="METHOD_NAME" value="pojoToJsonString" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamGenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamGenericsClass" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArrayException" />
-        <item itemvalue="Application.ConsumerInterface" />
-        <item itemvalue="Application.JavaWord" />
-        <item itemvalue="JUnit.Json.pojoToJsonString" />
+        <item itemvalue="Application.L" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.NewStream" />
+        <item itemvalue="Application.StreamGenericsClass" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699601799731</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="practice">
+      <created>1699973920855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699973920855</updated>
+    </task>
+    <task id="LOCAL-00010" summary="practice">
+      <created>1699973933817</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699973933817</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +311,8 @@
     <MESSAGE value="static" />
     <MESSAGE value="encoding" />
     <MESSAGE value="gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradle" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,6 @@
-package equalshascode.equals;
+package equalshascode;
 
-import com.beust.ah.A;
+import java.util.HashMap;
 
 class Test {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ class Test {
         Animal animal = animal0;
         System.out.println(animal0.equals(animal));
 
-        //Здесь объект и структуру объектов
+
         Animal animal1 = new Animal(1, "Tiger","SPB");
         Animal animal2 = new Animal(1, "Tiger", "SPB");
         Animal animal3 = new Animal(2, "Tiger", "NY");
@@ -22,6 +22,15 @@ class Test {
         System.out.println(animal1.hashCode());
         System.out.println(animal2.hashCode());
         System.out.println(animal3.hashCode());
+
+        System.out.println("__________________________");
+
+        HashMap<Integer, Object> animalsSet = new HashMap<>();
+        animalsSet.put(1,animal1);
+        animalsSet.put(2,animal2);
+
+        System.out.println(animalsSet.get(1).hashCode());
+        System.out.println(animalsSet.get(2).hashCode());
 
 
     }

@@ -13,7 +13,9 @@ public class NewStream {
         List<String> nameList = List.of("Андрей Аленин", "Максим Дроздов", "Николай Скворцов", "Андрей Кравцов");
         List<Integer> numbersList = List.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
-        System.out.println("_________________________");
+        System.out.println("_________________________\n");
+
+        System.out.println("map()");
         //map() Преобразование
         // n приравнивается к одному элементу коллекции для перебора (как при for each) и после -> мы указываем как фильтруется наша коллекция
         Stream<String> namesAndCity = nameList.stream().map(n -> n + " из Питера");
@@ -22,8 +24,8 @@ public class NewStream {
         namesAndCity.forEach(System.out::println);
         numbers10.forEach(System.out::println);
 
-        System.out.println("_________________________");
-
+        System.out.println("_________________________\n");
+        System.out.println("filter()");
         //filter() Фильтрация
         // Отсеивание части объектов можно сделать с помощью метода filter().
         // оставляет только те имена, в которых есть буква "..."
@@ -34,21 +36,26 @@ public class NewStream {
         filterNamesWithA.forEach(System.out::println);
         filterNumbers.forEach(System.out::println);
 
-        System.out.println("_________________________");
+        System.out.println("_________________________\n");
+        System.out.println("peek()");
 
+        //peek() Доступ к элементу
+
+        System.out.println("_________________________\n");
+        System.out.println("count()");
         //count() Получение количества
         long countNames = nameList.stream().count();
         System.out.println(countNames);
 
-        System.out.println("_________________________");
-
+        System.out.println("_________________________\n");
+        System.out.println("distinct()");
         //dictinct() Удаление дублей
         List<Integer> numbersList1 = List.of(11, 22, 29, 14, 25, 14, 27, 11, 22);
         Stream<Integer> distinctNumbers = numbersList1.stream().distinct();
         distinctNumbers.forEach(System.out::println);
 
-        System.out.println("_________________________");
-
+        System.out.println("_________________________\n");
+        System.out.println("sorted()");
         //sorted() Сортировка
         //По умолчанию использует «натуральный порядок», т.е. сортировку по возрастанию.
         //sorted(Comparator.reverseOrder()) отсортирует набор в обратном порядке
@@ -56,7 +63,7 @@ public class NewStream {
         Stream<Integer> sortedNumbers = numbersList2.stream().sorted();
         sortedNumbers.forEach(System.out::println);
 
-        System.out.println("_________________________");
+        System.out.println("_________________________\n");
 
         //  Поток здесь создается из существующего массива с помощью метода Arrays.stream().
         //  Все элементы массива преобразуются в элементы потока.

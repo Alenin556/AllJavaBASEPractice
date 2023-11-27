@@ -26,6 +26,7 @@ public class StreamApi {
         List<String> dogsList = Arrays.asList("Jery", "Fogy", "Rex", "Lui");
         streamApi.countDogs(dogsList); //количество собак
         streamApi.dogsNames(dogsList); // их имена
+
     }
     public void countDogs(List<String> list) {
         System.out.println( list.stream()

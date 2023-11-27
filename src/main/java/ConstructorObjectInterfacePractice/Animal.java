@@ -1,4 +1,4 @@
-package Animals;
+package ConstructorObjectInterfacePractice;
 
 public class Animal {
     private String name;

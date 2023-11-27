@@ -29,10 +29,11 @@ public class L {
             return temperatureF;
         }
 
-        // переопределяет и меняет логику выполнения метода
+        // переопределяет и дополняет логику выполнения метода
         @Override
         public void displayTemperature(){
-            System.out.println("Температура в Фаренгейтах равна: " + ((getTemperature()* 9/5) + 32));
+            System.out.println("Температура равна: " + getTemperature());
+            System.out.println("Температура в Фаренгейтах равна: " + getTemperatureInF());
         }
 
     }
@@ -41,7 +42,6 @@ public class L {
         ThermometerF thermometerF = new ThermometerF();
         thermometerF.setTemperature(45);
         thermometerF.displayTemperature();
-
     }
 
 }

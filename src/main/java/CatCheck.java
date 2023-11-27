@@ -1,4 +1,4 @@
-import Animals.Cat;
+import ConstructorObjectInterfacePractice.Cat;
 
 public class CatCheck {
     public static void main(String[] args) {

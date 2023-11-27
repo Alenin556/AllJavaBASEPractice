@@ -1,4 +1,4 @@
-package testPackage.test;
+package Parametrized.WEBTests;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
@@ -14,7 +14,7 @@ public class BaseDriverSetup {
     public static void setUp() {
         WebDriverManager.chromedriver().setup();
         Configuration.timeout = 10000;
-        Configuration.headless = true;
+        Configuration.headless = false;
         Configuration.browserSize = "1920x1080";
     }
 

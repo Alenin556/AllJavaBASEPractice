@@ -8,6 +8,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertThat;
 
 public class Json {
+
+    // необходимы зависимости :
+    // implementation 'com.fasterxml.jackson.core:jackson-databind:2.14.2'
+    // implementation 'com.fasterxml.jackson.core:jackson-annotations:2.14.2'
     ObjectMapper objectMapper = new ObjectMapper();
 
     @Test

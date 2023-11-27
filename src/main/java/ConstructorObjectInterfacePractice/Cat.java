@@ -1,6 +1,6 @@
-package Animals;
+package ConstructorObjectInterfacePractice;
 
-public class Cat {
+public class Cat implements Actions{
 
     private String name;
     private int age;
@@ -44,5 +44,27 @@ public class Cat {
     public void setWeight(int weight) {
         // проверка входящего параметра
         this.weight = weight;
+    }
+
+    @Override
+    public void fight() {
+        System.out.println("Cat fight");
+    }
+
+    @Override
+    public void say() {
+        System.out.println("Hello I'm Kitty");
+    }
+
+    @Override
+    public void run() {
+        System.out.println("Cat run");
+    }
+
+    public static void main(String[] args) {
+        Cat cat = new Cat();
+        cat.run();
+        cat.fight();
+        cat.say();
     }
 }

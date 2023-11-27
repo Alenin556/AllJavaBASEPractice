@@ -1,4 +1,4 @@
-package testPackage.test.Selenide;
+package Parametrized.WEBTests.Selenide;
 
 import com.codeborne.selenide.SelenideElement;
 import lombok.extern.slf4j.Slf4j;
@@ -7,7 +7,7 @@ import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
-import testPackage.test.BaseDriverSetup;
+import Parametrized.WEBTests.BaseDriverSetup;
 
 import static com.codeborne.selenide.Selenide.*;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -21,7 +21,6 @@ public class ParametrizedTests extends BaseDriverSetup {
         assertTrue(str.endsWith("i"));
     }
 
-
     @ParameterizedTest
     @ValueSource(strings = { "Where I can find meteorite?"})
     void testSource(String str) {
@@ -29,6 +28,21 @@ public class ParametrizedTests extends BaseDriverSetup {
         SelenideElement searchField = $x("//*[@id=\"APjFqb\"]");
         SelenideElement searchButton = $x("//*[@class=\"CcAdNb\"]");
         searchField.setValue(str);
+        searchField.clear();
+        searchField.setValue(str);
+
+        searchButton.click();
+    }
+    @ParameterizedTest
+    @ValueSource(strings = { "Where I can find meteorite?","Where I can find excalibur?","Where I can buy flycar?"})
+    void testManySource(String str) {
+        open("https://www.google.ru/");
+        SelenideElement searchField = $x("//*[@id=\"APjFqb\"]");
+        SelenideElement searchButton = $x("//*[@class=\"CcAdNb\"]");
+        searchField.setValue(str);
+        searchField.clear();
+        searchField.setValue(str);
+
         searchButton.click();
     }
 
