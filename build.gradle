@@ -44,9 +44,9 @@ dependencies {
 //            includeTags "API"
 //        }
 //    }
-//    def guiTest = tasks.register("guiTests", Test) {
+//    def guiTest = tasks.register("gui", Test) {
 //        useJUnitPlatform {
-//            includeTags "GUI"
+//            includeTags "gui"
 //        }
 //    }
 

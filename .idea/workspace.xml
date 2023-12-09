@@ -4,33 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/SuperHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamGenericsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/CardDBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/SingletonClassExample.java" afterDir="false" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/Llist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constructor/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamExtendsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/OrderTag/TestOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/OrderTag/TestTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Factorial.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Factorial.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CatCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CatCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLID/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLID/L.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SerializationAndDeserializtion/Json.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/NewStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Constructor/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Collections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/HashMapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfacesCollections/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Mapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/Names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/Names.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/NewStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamMethodsTheory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/equalshascode/equals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Collections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Сollections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfacesCollections/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/test/BaseDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/test/Selenide/ParametrizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/Selenide/ParametrizedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/Selenide/ParametrizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/Selenide/ParametrizedTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,11 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="JavaPractice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaPractice" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -98,7 +98,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -131,84 +131,179 @@
     <option name="myCommands">
       <command value="./gradlew clean test" />
       <command value="./gradlew allureServe" />
-      <command value="./gradlew tasks" />
       <command value="./gradlew hello" />
       <command value="./gradlew build" />
+      <command value="./gradlew test --tests * --include-tags=api" />
+      <command value="./gradlew guiTest" />
+      <command value="./gradlew tasks" />
+      <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.L">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorObjectInterfacePractice.Dog" />
-      <module name="JavaPractice.main" />
+  <component name="RunManager" selected="JUnit.ParametrizedTests">
+    <configuration name="ParametrizedTests (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Parametrized.WEBTests.Selenide.ParametrizedTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParametrizedTests (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Parametrized.ParametrizedTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParametrizedTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Parametrized.WEBTests.Selenide.ParametrizedTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test.testSource" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Parametrized.Test.testSource&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParametrizedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConstructorObjectInterfacePractice.*" />
+          <option name="PATTERN" value="Parametrized.WEBTests.Selenide.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Parametrized.WEBTests.Selenide" />
+      <option name="MAIN_CLASS_NAME" value="Parametrized.WEBTests.Selenide.ParametrizedTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLID.L" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SOLID.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Smoke" type="JUnit" factoryName="JUnit">
+      <module name="JavaPractice.test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <tag value="Smoke" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfacesCollections.Map" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfacesCollections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Tag(High priority)" type="JUnit" factoryName="JUnit">
+      <module name="JavaPractice.test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <tag value="HighPriority" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.NewStream" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Tag(api)" type="JUnit" factoryName="JUnit">
+      <module name="JavaPractice.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <tag value="api" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamGenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamGenericsClass" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Tag(gui)" type="JUnit" factoryName="JUnit">
+      <module name="JavaPractice.test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <tag value="gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Gradle.ParametrizedTests" />
+      <item itemvalue="Gradle.ParametrizedTests (1)" />
+      <item itemvalue="Gradle.ParametrizedTests (2)" />
+      <item itemvalue="Gradle.Test.testSource" />
+      <item itemvalue="JUnit.Smoke" />
+      <item itemvalue="JUnit.Tag(High priority)" />
+      <item itemvalue="JUnit.Tag(gui)" />
+      <item itemvalue="JUnit.Tag(api)" />
+      <item itemvalue="JUnit.ParametrizedTests" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Map" />
-        <item itemvalue="Application.NewStream" />
-        <item itemvalue="Application.StreamGenericsClass" />
+        <item itemvalue="JUnit.ParametrizedTests" />
+        <item itemvalue="Gradle.ParametrizedTests" />
+        <item itemvalue="Gradle.Test.testSource" />
+        <item itemvalue="Gradle.ParametrizedTests (2)" />
+        <item itemvalue="Gradle.ParametrizedTests (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699973933817</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1701075351522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701075351522</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +414,8 @@
     <MESSAGE value="encoding" />
     <MESSAGE value="gradle" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

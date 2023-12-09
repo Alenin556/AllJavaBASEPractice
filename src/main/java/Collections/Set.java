@@ -1,4 +1,4 @@
-package InterfacesCollections;
+package Collections;
 
 
 import java.util.HashSet;
@@ -18,6 +18,7 @@ public class Set {
         if(names.contains("Walter")){
             System.out.println("В коллекции есть имя Walter");
         }
+        System.out.println("_____________________________________\n");
 
         HashSet<String> linkedNames = new LinkedHashSet<>();
         linkedNames.add("Andrew");
@@ -26,5 +27,15 @@ public class Set {
         linkedNames.add("Walter");
         linkedNames.add("Walter");
         System.out.println(linkedNames);
+        System.out.println("_____________________________________\n");
+
+        TreeSet<String> treeSetNames = new TreeSet<>();
+        treeSetNames.add("Andrew");
+        treeSetNames.add("Britney");
+        treeSetNames.add("John");
+        treeSetNames.add("Alexey");
+        treeSetNames.add("Walter");
+        treeSetNames.add("Walter");
+        System.out.println(treeSetNames);
     }
 }

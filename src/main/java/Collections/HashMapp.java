@@ -1,10 +1,8 @@
-package InterfacesCollections;
+package Collections;
 
-import java.util.HashMap;
-
-public class Hash{
+public class HashMapp {
     public static void main(String[] args) {
-        HashMap<Integer, String> passportsAndNames = new HashMap<>();
+        java.util.HashMap<Integer, String> passportsAndNames = new java.util.HashMap<>();
 
         passportsAndNames.put(212133, "Лидия Аркадьевна Бубликова");
         passportsAndNames.put(212134, "Лидия Аркадьевна Бубликова");

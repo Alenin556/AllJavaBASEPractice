@@ -18,5 +18,8 @@ public class Numbers {
                 .forEach(x -> {
                     System.out.println("forEach: " + x);
                 });
+
+
+
     }
 }

@@ -31,8 +31,10 @@ public class ParametrizedTests extends BaseDriverSetup {
         searchField.clear();
         searchField.setValue(str);
 
-        searchButton.click();
+//        searchButton.click();
+        executeJavaScript("\"arguments[0].click();\"",searchButton);
     }
+
     @ParameterizedTest
     @ValueSource(strings = { "Where I can find meteorite?","Where I can find excalibur?","Where I can buy flycar?"})
     void testManySource(String str) {

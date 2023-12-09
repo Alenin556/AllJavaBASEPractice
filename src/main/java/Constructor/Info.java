@@ -1,6 +1,12 @@
 package Constructor;
 
-public class NewStudent {
+public class Info {
+
+     String country = "Russia";
+
+    public String getCountry() {
+        return country;
+    }
 
     public static void main(String[] args) {
         Student studentA = new Student("Andrew","AQA", "JAVA");
@@ -8,6 +14,8 @@ public class NewStudent {
         Student newStudent = new Student("Alice", "AQA", "C++");
         System.out.println(studentA.getName());
         System.out.println(newStudent.getSpecialty());
+
+
 
     }
 }

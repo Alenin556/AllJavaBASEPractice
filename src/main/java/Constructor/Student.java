@@ -1,6 +1,6 @@
 package Constructor;
 
-public class Student {
+public class Student extends Info {
 
     private String name, group, specialty;
 

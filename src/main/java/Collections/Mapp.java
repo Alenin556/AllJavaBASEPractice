@@ -1,15 +1,18 @@
-package InterfacesCollections;
+package Collections;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
-public class Map {
+public class Mapp {
     public static void main(String[] args) {
         // Создаем Map
-        java.util.Map<String, Integer> map = new HashMap<>();
+        Map<String, Integer> map = new LinkedHashMap<>();
 
         // Добавляем элементы в Map
         map.put("apple", 35);
         map.put("banana", 56);
+        map.put("orange", 50);
         map.put("orange", 50);
 
         // Печать Map
@@ -39,7 +42,7 @@ public class Map {
         //таблица Param
         //поиск по ключу и вывод значения для ввода в параметр
 
-        java.util.Map<String, String> params = new HashMap<>();
+        Map<String, String> params = new HashMap<>();
 
         // Добавляем элементы в Map
         params.put("isActive", "true");
@@ -58,7 +61,7 @@ public class Map {
 
         //таблица Param
         //поиск по ключу и вывод значения для ввода в параметр
-        java.util.Map<String, String> params2 = new HashMap<>();
+        Map<String, String> params2 = new HashMap<>();
 
         // Добавляем элементы в Map
         params2.put("isActive", "true");
