@@ -23,7 +23,9 @@ public class Runner {
             System.out.println("Ошибка! Нельзя делить на ноль!");
         }
 
-        System.out.println(" ");
+        System.out.println("_____________________________\n");
+
+
         try {
             BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\Username\\Desktop\\test.txt"));
 

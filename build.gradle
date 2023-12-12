@@ -39,16 +39,6 @@ dependencies {
     testImplementation 'org.junit-pioneer:junit-pioneer:2.0.1'
 }
 
-//    def apiTest = tasks.register("apiTests", Test) {
-//        useJUnitPlatform {
-//            includeTags "API"
-//        }
-//    }
-//    def guiTest = tasks.register("gui", Test) {
-//        useJUnitPlatform {
-//            includeTags "gui"
-//        }
-//    }
 
 allure {
     report {

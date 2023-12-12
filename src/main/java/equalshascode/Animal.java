@@ -10,6 +10,7 @@ class Test {
         System.out.println(animal0.equals(animal));
 
 
+        //Тут мы сравниваем объекты структурно
         Animal animal1 = new Animal(1, "Tiger","SPB");
         Animal animal2 = new Animal(1, "Tiger", "SPB");
         Animal animal3 = new Animal(2, "Tiger", "NY");

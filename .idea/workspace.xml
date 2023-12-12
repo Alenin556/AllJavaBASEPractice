@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamInitialization.java" afterDir="false" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="StreamInitialization">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/RunnerWebDriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SoftHardAssert/SoftHardAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/driverFabrique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +111,7 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Parametrized.WEBTests" />
       <recent name="Equals" />
       <recent name="Final" />
       <recent name="" />
@@ -120,7 +129,20 @@
       <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamInitialization">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="SingletonClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonClassExample" />
+      <module name="JavaPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamGenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamGenericsClass" />
       <module name="JavaPractice.main" />
@@ -160,40 +182,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParametrizedTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;Parametrized.WEBTests.Selenide.ParametrizedTests&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ParametrizedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractice.test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalshascode.Test" />
+      <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Parametrized.WEBTests.Selenide.*" />
+          <option name="PATTERN" value="equalshascode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Parametrized.WEBTests.Selenide" />
-      <option name="MAIN_CLASS_NAME" value="Parametrized.WEBTests.Selenide.ParametrizedTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -238,23 +235,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SingletonClassExample" />
       <item itemvalue="Application.StreamGenericsClass" />
       <item itemvalue="Application.StreamInitialization" />
       <item itemvalue="Application.StreamMethodsTheory" />
-      <item itemvalue="Gradle.ParametrizedTests" />
       <item itemvalue="JUnit.Smoke" />
       <item itemvalue="JUnit.Tag(High priority)" />
       <item itemvalue="JUnit.Tag(gui)" />
       <item itemvalue="JUnit.Tag(api)" />
-      <item itemvalue="JUnit.ParametrizedTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SingletonClassExample" />
         <item itemvalue="Application.StreamInitialization" />
         <item itemvalue="Application.StreamGenericsClass" />
         <item itemvalue="Application.StreamMethodsTheory" />
-        <item itemvalue="JUnit.ParametrizedTests" />
-        <item itemvalue="Gradle.ParametrizedTests" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702114727419</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="StreamInitialization">
+      <created>1702278524916</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702278524916</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,7 +377,8 @@
     <MESSAGE value="gradle" />
     <MESSAGE value="practice" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="StreamInitialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="StreamInitialization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,6 +391,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Fabrique/RunnerWebDriverExample.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
