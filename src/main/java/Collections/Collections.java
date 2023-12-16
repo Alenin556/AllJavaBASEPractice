@@ -12,8 +12,20 @@ public class Collections {
         ArrayList<String> nameList = new ArrayList<>();
         nameList.add("Федор");
         nameList.add("Лиза");
+        nameList.add("Петр");
+        nameList.add("Виктор");
         nameList.set(0, "Андрей");
         System.out.println(nameList);
+
+        for(String namesFor : nameList){
+            if(namesFor.contains("Лиза")){
+                System.out.println("В списке есть девушка Лиза =)");
+            } else if(namesFor.contains("Петр")){
+                System.out.println("В списке есть парень Петр =)");
+            } else if(namesFor.contains("Виктор")){
+                System.out.println("Виктор вы уволены =)");
+            }
+        }
 
         HashSet<String> nameList1 = new HashSet<>();
         nameList1.add("Федор");

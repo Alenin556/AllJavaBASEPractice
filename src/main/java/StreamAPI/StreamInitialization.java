@@ -117,6 +117,6 @@ public class StreamInitialization {
 //        words.stream();
 
         System.out.println(words);
-
+        
     }
 }

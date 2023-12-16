@@ -4,17 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="StreamInitialization">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fabrique/RunnerWebDriverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SoftHardAssert/SoftHardAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/driverFabrique.java" afterDir="false" />
+    <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="final">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Alive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Poodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Shepherd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/PracticeOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/zoo/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/english/HelloEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/myName/MyName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/russian/HelloRus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson2/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson3/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson3/Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/BooleanLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Pactice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/ForI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/MultiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/WhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/FormatPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/PracticeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/StringFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operatorChild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fabrique/driverExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Collections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Parametrized/WEBTests/BaseDriverSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Final/practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamInitialization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +117,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java Works/JavaPractice/src/test/java/Singleton&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java Works/JavaPractice/src/main/java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -96,6 +131,7 @@
       <recent name="Java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java Works\JavaPractice\src\main\java" />
       <recent name="C:\Java Works\JavaPractice\src\test\java\Singleton" />
       <recent name="C:\Java Works\JavaPractice\src\main\java\Exceptions" />
       <recent name="C:\IDEA\JavaBookPractice\src\main\java\Сollections" />
@@ -129,13 +165,13 @@
       <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="SingletonClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonClassExample" />
-      <module name="JavaPractice.test" />
+  <component name="RunManager" selected="Application.operatorChild">
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Collections" />
+      <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,38 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamGenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamGenericsClass" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringg.StringMethods" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamInitialization" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamMethodsTheory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamAPI.StreamMethodsTheory" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StreamAPI.*" />
+          <option name="PATTERN" value="Stringg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,6 +198,26 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="equalshascode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="operatorChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operatorChild" />
+      <module name="JavaPractice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.practice1" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +265,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.operatorChild" />
+      <item itemvalue="Application.StringMethods" />
+      <item itemvalue="Application.Collections" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.SingletonClassExample" />
-      <item itemvalue="Application.StreamGenericsClass" />
-      <item itemvalue="Application.StreamInitialization" />
-      <item itemvalue="Application.StreamMethodsTheory" />
+      <item itemvalue="Application.practice1" />
       <item itemvalue="JUnit.Smoke" />
       <item itemvalue="JUnit.Tag(High priority)" />
       <item itemvalue="JUnit.Tag(gui)" />
@@ -247,11 +277,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operatorChild" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.Collections" />
+        <item itemvalue="Application.practice1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SingletonClassExample" />
-        <item itemvalue="Application.StreamInitialization" />
-        <item itemvalue="Application.StreamGenericsClass" />
-        <item itemvalue="Application.StreamMethodsTheory" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702278524916</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="final">
+      <created>1702382509401</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1702382509401</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,14 +408,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projects" />
-    <MESSAGE value="final" />
     <MESSAGE value="static" />
     <MESSAGE value="encoding" />
     <MESSAGE value="gradle" />
     <MESSAGE value="practice" />
     <MESSAGE value="commit" />
     <MESSAGE value="StreamInitialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="StreamInitialization" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
