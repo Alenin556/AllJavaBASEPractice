@@ -6,13 +6,8 @@ class Test {
     public static void main(String[] args) {
         //Тут мы сравниваем ссылки
         Animal animal0 = new Animal(1, "Tiger","SPB");
-        Animal animal01 = animal0;
-        //Объект
-        Animal animal = new Animal(1, "Tiger","SPB");
-        System.out.println(animal0.equals(animal01));
+        Animal animal = animal0;
         System.out.println(animal0.equals(animal));
-
-        System.out.println("__________________________");
 
 
         //Тут мы сравниваем объекты структурно
@@ -25,7 +20,6 @@ class Test {
         System.out.println(animal1.equals(animal3));
         System.out.println(animal3.equals(animal4));
 
-        System.out.println("__________________________");
         System.out.println(animal1.hashCode());
         System.out.println(animal2.hashCode());
         System.out.println(animal3.hashCode());

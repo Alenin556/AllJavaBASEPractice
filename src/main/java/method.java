@@ -17,7 +17,7 @@ public class method {
                 System.out.println("Order confirmed");
                 break;
             case 2:
-                System.out.println("messenger@sololearn.com");
+                System.out.println("info@sololearn.com");
                 break;
             default:
                 System.out.println("Try again");
