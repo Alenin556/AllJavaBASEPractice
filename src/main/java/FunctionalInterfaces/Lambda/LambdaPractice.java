@@ -7,7 +7,7 @@ package FunctionalInterfaces.Lambda;
 
 //        abstract void function(int x);
 
-        abstract void saySomething();
+        void saySomething();
 
         // A non-abstract (or default) function
         default void normalFunction()
@@ -29,7 +29,7 @@ package FunctionalInterfaces.Lambda;
 //            newInt2.function(10);
 //            newInt.normalFunction();
 
-            FuncInterface say = () -> System.out.println("Сказал что то))");
+            FuncInterface say = () -> System.out.println("Сказал что то");
             say.saySomething();
         }
     }

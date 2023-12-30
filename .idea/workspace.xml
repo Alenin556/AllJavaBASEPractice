@@ -5,51 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03062296-c538-479b-bbca-2c79523d2345" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Alive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Poodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Shepherd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/PracticeOOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/practice/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/lesson7OOP/zoo/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/english/HelloEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/myName/MyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson1/russian/HelloRus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson2/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson3/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson3/Primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/BooleanLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Pactice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson4ConditionalOperators/Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/ForI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/MultiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/start/lesson5Cycles/WhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/FormatPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/PracticeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/StringFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stringg/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operatorChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/AbstractactPackage/Clasas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/AbstractactPackage/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/AbstractactPackage/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/VK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractInterfacePractice/Watsup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConstructorObjectInterfacePractice/StepicJava/ScannerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectClassPracticeMethods/PracticeRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Collections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/finalClassPractice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Final/practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final/practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StreamAPI/StreamInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/ConsumerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/ConsumerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/Lambda/LambdaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/Lambda/LambdaPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/PredicateInterFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces/PredicateInterFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Alive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Alive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/inheritance/lesson9/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SoftHardAssert/SoftHardAssert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/equalshascode/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/operatorChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlfaTask/operatorChild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,59 +141,65 @@
       <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.operatorChild">
-    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Collections" />
+  <component name="RunManager" selected="Application.PracticeRunner">
+    <configuration name="AbstractInterfacePractice.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractInterfacePractice.Runner" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractInterfacePractice.AbstractactPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaces.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaces.Runner" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectClassPracticeMethods.PracticeRunner" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectClassPracticeMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.inheritance.lesson9.Runner" />
+      <module name="JavaPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.inheritance.lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Set" />
       <module name="JavaPractice.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringg.StringMethods" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stringg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalshascode.Test" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="equalshascode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="operatorChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operatorChild" />
-      <module name="JavaPractice.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.practice1" />
-      <module name="JavaPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +247,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Factorial" />
-      <item itemvalue="Application.operatorChild" />
-      <item itemvalue="Application.StringMethods" />
-      <item itemvalue="Application.Collections" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.practice1" />
+      <item itemvalue="Application.AbstractInterfacePractice.Runner" />
+      <item itemvalue="Application.FunctionalInterfaces.Runner" />
+      <item itemvalue="Application.PracticeRunner" />
+      <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.Set" />
       <item itemvalue="JUnit.Smoke" />
       <item itemvalue="JUnit.Tag(High priority)" />
       <item itemvalue="JUnit.Tag(gui)" />
@@ -277,11 +259,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.operatorChild" />
-        <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.Collections" />
-        <item itemvalue="Application.practice1" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PracticeRunner" />
+        <item itemvalue="Application.Set" />
+        <item itemvalue="Application.FunctionalInterfaces.Runner" />
+        <item itemvalue="Application.AbstractInterfacePractice.Runner" />
+        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>

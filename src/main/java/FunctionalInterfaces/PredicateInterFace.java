@@ -6,8 +6,10 @@ public class PredicateInterFace {
 
     public static void main(String[] args) {
 
-        // метод test() фильтрует по условию лямбды выражения true или false на выходе
+        //Predicate — функциональный интерфейс для проверки соблюдения некоторого условия.
+        // Если условие соблюдается, возвращает true, иначе — false.
         Predicate<Integer> predicate = x -> x > 5;
         System.out.println(predicate.test(10));
+        // метод test() передает значение в лямбду выражение и возвращает true или false как результат
     }
 }

@@ -2,5 +2,8 @@ package OOP.inheritance.lesson9;
 
 public abstract class Alive {
 
-    public abstract void breath();
+    int age;
+    String name;
+
+    abstract void breath();
 }

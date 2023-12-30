@@ -12,8 +12,12 @@ public class Set {
         names.add("Andrew");
         names.add("Britney");
         names.add("John");
-        names.add("Walter");
-        names.add("Walter");
+        names.add("Kevin");
+        names.add("Igor");
+        names.add("Venice");
+        names.add("Leo");
+        names.add("David");
+        names.add("Peter");
         System.out.println(names);
         if(names.contains("Walter")){
             System.out.println("В коллекции есть имя Walter");
