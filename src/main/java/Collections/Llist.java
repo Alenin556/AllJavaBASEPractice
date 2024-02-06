@@ -6,6 +6,17 @@ import java.util.List;
 
 public class Llist {
     public static void main(String[] args) {
+
+        final List<Double> doubleNumbers = new ArrayList<>();
+        doubleNumbers.add(1.1);
+        doubleNumbers.add(1.1);
+        doubleNumbers.add(1.1);
+        doubleNumbers.add(1.1);
+        System.out.println(doubleNumbers);
+//        doubleNumbers = new ArrayList<>(5); не может иметь ссылку на другую коллекцию
+
+
+
         String[] names = new String[5];
 
         LinkedList <String> namess = new LinkedList <>();

@@ -3,6 +3,8 @@ package Static;
 public class Car {
 
     public String brand;
+    private static int id = 1;
+
     static int  porscheCarPrice = 5_000_000;
     static int lamborghiniCarPrice = 10_000_000;
 

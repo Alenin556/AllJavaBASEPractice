@@ -1,3 +1,5 @@
+package Other;
+
 public class ObjectThemeJavaBook {
     static class Dog {
         int size;

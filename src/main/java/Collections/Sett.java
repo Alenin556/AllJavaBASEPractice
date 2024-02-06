@@ -3,24 +3,26 @@ package Collections;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
+import java.util.Set;
 import java.util.TreeSet;
 
-public class Set {
+public class Sett {
     public static void main(String[] args) {
 
-        HashSet<String> names = new HashSet<String>();
+        Set<String> names = new HashSet<String>();
         names.add("Andrew");
         names.add("Britney");
         names.add("John");
         names.add("Walter");
         names.add("Walter");
         System.out.println(names);
+
         if(names.contains("Walter")){
             System.out.println("В коллекции есть имя Walter");
         }
         System.out.println("_____________________________________\n");
 
-        HashSet<String> linkedNames = new LinkedHashSet<>();
+        Set<String> linkedNames = new LinkedHashSet<>();
         linkedNames.add("Andrew");
         linkedNames.add("Britney");
         linkedNames.add("John");
@@ -29,7 +31,7 @@ public class Set {
         System.out.println(linkedNames);
         System.out.println("_____________________________________\n");
 
-        TreeSet<String> treeSetNames = new TreeSet<>();
+        Set<String> treeSetNames = new TreeSet<>();
         treeSetNames.add("Andrew");
         treeSetNames.add("Britney");
         treeSetNames.add("John");

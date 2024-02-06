@@ -1,6 +1,8 @@
 package OOP.inheritance.lesson9;
 
-public abstract class Dog extends Alive{ //если класс является абстрактным, то мы больше не сможем создавать экземпляр этого класса.
+
+//если класс является абстрактным, то мы больше не сможем создавать экземпляр этого класса.
+public abstract class Dog extends Alive{
 
     public int countLegs = 4;
     public int countTeeth;

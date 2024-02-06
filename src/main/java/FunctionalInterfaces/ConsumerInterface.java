@@ -1,5 +1,7 @@
 package FunctionalInterfaces;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
 
@@ -11,5 +13,7 @@ public class ConsumerInterface {
 
         Consumer<Integer> printer = x-> System.out.printf(x + " долларов");
         printer.accept(600); // 600 долларов
+
+
     }
 }

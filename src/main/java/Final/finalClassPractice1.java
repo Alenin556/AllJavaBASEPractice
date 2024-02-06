@@ -3,7 +3,7 @@ package Final;
 public final class finalClassPractice1 {
 
     public final String name = "Andrew";
-    //переменная которая обозначена final нельзя изменить (создать на нее setter)
+    //переменная которая обозначена final нельзя изменить (создать на нее set метод)
     public String name2 = "Matvei";
 
     public void setName2(String name2) {

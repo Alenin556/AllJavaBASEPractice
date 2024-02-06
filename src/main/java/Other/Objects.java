@@ -1,3 +1,5 @@
+package Other;
+
 public class Objects {
 
     static String title;

@@ -1,3 +1,5 @@
+package Other;
+
 public class MagnetsWithCode {
     public static void main(String[] args) {
         int x = 3;

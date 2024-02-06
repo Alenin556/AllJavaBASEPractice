@@ -1,3 +1,5 @@
+package Other;
+
 public class Sale {
     public String saleDay = "Пятница 13";
 

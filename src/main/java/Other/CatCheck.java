@@ -1,3 +1,5 @@
+package Other;
+
 import ConstructorObjectInterfacePractice.Cat;
 
 public class CatCheck {

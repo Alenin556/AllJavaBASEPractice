@@ -1,3 +1,5 @@
+package Other;
+
 public class Discount {
     public static void main(String[] args) {
         int amount = 4000;

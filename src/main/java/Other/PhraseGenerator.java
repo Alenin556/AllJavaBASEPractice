@@ -1,3 +1,5 @@
+package Other;
+
 public class PhraseGenerator {
     public static void main(String[] args) {
         String[] wordListOne = {"великолепно", "потрясающе", "супер-крутой", "невероятно"};

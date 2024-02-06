@@ -1,3 +1,5 @@
+package Other;
+
 public class JavaWord {
     public static void main(String[] args) {
 

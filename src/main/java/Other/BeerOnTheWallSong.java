@@ -1,3 +1,5 @@
+package Other;
+
 public class BeerOnTheWallSong {
     public static void main(String[] args) {
 

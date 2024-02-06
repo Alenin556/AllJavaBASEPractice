@@ -9,12 +9,12 @@ class Test {
         Animal animal = animal0;
         System.out.println(animal0.equals(animal));
 
-
         //Тут мы сравниваем объекты структурно
         Animal animal1 = new Animal(1, "Tiger","SPB");
         Animal animal2 = new Animal(1, "Tiger", "SPB");
         Animal animal3 = new Animal(2, "Tiger", "NY");
         Animal animal4 = new Animal(23, "Elephant", "NY");
+
 
         System.out.println(animal1.equals(animal2));
         System.out.println(animal1.equals(animal3));
@@ -26,14 +26,12 @@ class Test {
 
         System.out.println("__________________________");
 
-        HashMap<Integer, Object> animalsSet = new HashMap<>();
-        animalsSet.put(1,animal1);
-        animalsSet.put(2,animal2);
+        HashMap<Object, Integer> animalsMap = new HashMap<>();
+        animalsMap.put(animal1,1);
+        animalsMap.put(animal2,2);
 
-        System.out.println(animalsSet.get(1).hashCode());
-        System.out.println(animalsSet.get(2).hashCode());
-
-
+        System.out.println(animalsMap.get(animal1).hashCode());
+        System.out.println(animalsMap.get(animal2).hashCode());
     }
 }
 
@@ -68,7 +66,7 @@ public class Animal {
     public boolean equals(Object o) {
         //Определяем тип объекта с которым будем сравнивать.
         Animal otherAnimal = (Animal) o;
-        //Результат сравнения будет true если все поля совпадают
+        //Результат сравнения будет true если поля совпадают
         return this.id == otherAnimal.id;
     }
 

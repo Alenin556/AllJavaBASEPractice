@@ -44,8 +44,8 @@ public class Collections {
         // Печать Map
         System.out.println("Map: " + map);
         // Получаем значение для определенного ключа
-        int value = map.get("banana");
-        System.out.println("Value for 'banana': " + value);
+        int banana = map.get("banana");
+        System.out.println("Value for 'banana': " + banana);
         // Удаляем элемент из Map
         map.remove("orange");
         // Печать обновленной карты
